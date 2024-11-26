@@ -1,5 +1,10 @@
 Project Requirements
 
+
+pip install --upgrade pip
+pip install -r requirements.txt
+
+
 streamlit==1.29.0
 plotly==5.18.0
 openpyxl==3.1.2  # For reading Excel files if needed
